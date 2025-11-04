@@ -51,6 +51,3 @@ https://drive.google.com/file/d/1kUm7N_QA6HvCh33ZYSBhewF8vqEDw5a7/view?usp=shari
 **Abhishek Jain**
 💬 Android Developer | Kotlin | Java
 
----
-
-Would you like me to add **badges (Kotlin, Android Studio, License)** and a **preview image section** at the top to make it look more professional on GitHub?
